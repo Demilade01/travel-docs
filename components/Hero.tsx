@@ -50,7 +50,7 @@ const Hero = () => {
           height={500}
         />
     </div>
-    <div className='container mx-auto flex justify-between items-center mt-20'>
+    <div className='container mx-auto flex justify-between items-center mt-20 mb-[200px]'>
       {heroLogos.map((logo) => (
           <Image
             key={logo.logo}
