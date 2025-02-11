@@ -39,3 +39,21 @@ export const heroLogos = [
     alt: "siemens",
   },
 ]
+
+export const aboutContent = [
+  {
+    image: "/assets/document.png",
+    title: "collecting your documents",
+    subTitle: "Prepare your application, get a photo, and gather supporting documents.",
+  },
+  {
+    image: "/assets/expedite.png",
+    title: "expedite delivery of your passport",
+    subTitle: "We hand-carry your documents to the Passport Agency and send your passport to you.",
+  },
+  {
+    image: "/assets/delivery.png",
+    title: "document delivery",
+    subTitle: "our Passport is delivered via secure Fedex service.",
+  },
+]
