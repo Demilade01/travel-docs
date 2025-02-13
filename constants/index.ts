@@ -57,3 +57,30 @@ export const aboutContent = [
     subTitle: "our Passport is delivered via secure Fedex service.",
   },
 ]
+
+export const passportContent = [
+  {
+    image: "/assets/add.png",
+    title: "New Passport",
+  },
+  {
+    image: "/assets/renewal.png",
+    title: "Passport renewa;",
+  },
+  {
+    image: "/assets/lostp.png",
+    title: "Lost Passport",
+  },
+  {
+    image: "/assets/child.png",
+    title: "Child Passport",
+  },
+  {
+    image: "/assets/changename.png",
+    title: "Passport change name",
+  },
+  {
+    image: "/assets/secondp.png",
+    title: "Second Passport",
+  },
+]
