@@ -84,3 +84,31 @@ export const passportContent = [
     title: "Second Passport",
   },
 ]
+
+export const serviceSpeeds = [
+  {
+    title: "emergency service",
+    price: "$549",
+    days: "3-4 Business Days",
+  },
+  {
+    title: "priority service",
+    price: "$499",
+    days: "5 Business Days",
+  },
+  {
+    title: "rush service",
+    price: "$499",
+    days: "7 Business Days",
+  },
+  {
+    title: "standard service",
+    price: "$399",
+    days: "10 Business Days",
+  },
+  {
+    title: "saver service",
+    price: "$199",
+    days: "30 Business Days",
+  },
+]

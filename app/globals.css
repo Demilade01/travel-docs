@@ -33,6 +33,19 @@ body {
   align-items: center;
 }
 
+.speed-start{
+  background-image: url("/assets/arrow.png");
+  height: 50px;
+  width: 200px;
+  margin-top: 0;
+  background-color: #DBEAFF;
+  background-position: calc(100% - 20px);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .card{
   display: grid;
   gap: 20px 20px;
@@ -41,4 +54,16 @@ body {
 .bg-card {
   background-color: white;
   padding: 20px;
+  width: 300px;
+}
+
+.bg-service {
+  background-color: white;
+  padding: 20px 10px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
 }

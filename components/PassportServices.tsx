@@ -23,7 +23,7 @@ const PassportServices = () => {
                   className='h-10 w-10'
                 />
 
-                <p className='text-2xl font-bold'>{pass.title}</p>
+                <p className='text-2xl font-bold text-nowrap'>{pass.title}</p>
               </div>
                 <button className='passport-arrow px-10 py-5 h-full w-full'>
                 </button>

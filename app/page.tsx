@@ -2,6 +2,7 @@ import About from '@/components/About'
 import Hero from '@/components/Hero'
 import Navbar from '@/components/Navbar'
 import PassportServices from '@/components/PassportServices'
+import ServiceSpeeds from '@/components/ServiceSpeeds'
 import React from 'react'
 
 const Home = () => {
@@ -11,6 +12,7 @@ const Home = () => {
       <Hero />
       <About />
       <PassportServices />
+      <ServiceSpeeds />
     </>
   )
 }
