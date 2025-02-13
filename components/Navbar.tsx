@@ -18,7 +18,7 @@ const Navbar = () => {
       </div>
       <div className='flex justify-end items-center gap-6'>
         {navLinks.map((link) => (
-          <nav className=''>
+          <nav key={link.href}>
             <Link
               key={link.title}
               href={link.href}
