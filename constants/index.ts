@@ -65,7 +65,7 @@ export const passportContent = [
   },
   {
     image: "/assets/renewal.png",
-    title: "Passport renewa;",
+    title: "Passport renewal",
   },
   {
     image: "/assets/lostp.png",
@@ -77,7 +77,7 @@ export const passportContent = [
   },
   {
     image: "/assets/changename.png",
-    title: "Passport change name",
+    title: "Passport change",
   },
   {
     image: "/assets/secondp.png",
