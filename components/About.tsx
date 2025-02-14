@@ -7,7 +7,7 @@ const About = () => {
     <div className='container mx-auto px-4 mb-[100px]'>
       <div className='flex flex-col items-center justify-center'>
         <p className='uppercase font-bold text-sm bg-[#cfdff3] py-2 px-4 rounded-full'>Our Passport Expedited Services</p>
-        <h3 className='text-6xl font-extrabold mt-10 sm:text-center'>How We Expedite Your Passport</h3>
+        <h3 className='text-6xl font-extrabold mt-10 sm:text-center  w-[620px]'>How We Expedite Your Passport</h3>
         <p className='text-sm mt-10 capitalize font-light'>Tailored Solutions for Your Passport Needs</p>
       </div>
 

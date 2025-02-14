@@ -3,6 +3,7 @@ import Hero from '@/components/Hero'
 import Navbar from '@/components/Navbar'
 import PassportServices from '@/components/PassportServices'
 import ServiceSpeeds from '@/components/ServiceSpeeds'
+import Testimonials from '@/components/Testimonials'
 import React from 'react'
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
       <About />
       <PassportServices />
       <ServiceSpeeds />
+      <Testimonials />
     </>
   )
 }

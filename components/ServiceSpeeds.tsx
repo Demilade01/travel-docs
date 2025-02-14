@@ -10,7 +10,7 @@ const ServiceSpeeds = () => {
         <p className='text-sm mt-10 capitalize font-light mb-10'>We offer a variety of service speeds to meet your international travel needs</p>
       </div>
 
-    <div className='flex gap-4 justify-between flex-wrap mx-auto items-center w-[700px] h-[400px]'>
+    <div className='flex gap-4 justify-between flex-wrap mx-auto items-center w-[700px] h-[400px] mb-32'>
       {serviceSpeeds.map((service) => (
         <div key={service.title} >
           <ServiceCards
@@ -18,7 +18,7 @@ const ServiceSpeeds = () => {
             price={service.price}
             days={service.days}
           />
-          <button className='speed-start'>
+          <button className='speed-start '>
             Get Started
           </button>
         </div>
