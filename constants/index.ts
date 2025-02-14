@@ -112,3 +112,36 @@ export const serviceSpeeds = [
     days: "30 Business Days",
   },
 ]
+
+export const customerReviews = [
+  {
+    review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
+    name: "Ashley Cooper",
+    image: "/assets/person1.png",
+  },
+  {
+    review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
+    name: "Noah Jack",
+    image: "/assets/person2.png",
+  },
+  {
+    review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
+    name: "William leo",
+    image: "/assets/person4.png",
+  },
+  {
+    review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
+    name: "Ashley Cooper",
+    image: "/assets/person3.png",
+  },
+  {
+    review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
+    name: "Noah Jack",
+    image: "/assets/person1.png",
+  },
+  {
+    review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
+    name: "William leo",
+    image: "/assets/person1.png",
+  },
+]
