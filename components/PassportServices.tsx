@@ -7,8 +7,8 @@ const PassportServices = () => {
     <div className='container mx-auto'>
       <div className='flex flex-col items-center justify-center'>
         <p className='uppercase font-bold text-sm bg-[#cfdff3] py-2 px-4 rounded-full'>Streamlined process</p>
-        <h3 className='text-6xl font-extrabold mt-10 sm:text-center'>How We Expedite Your Passport</h3>
-        <p className='text-sm mt-10 capitalize font-light mb-10'>Discover the simplicity behind our passport expedited services</p>
+        <h3 className='text-5xl font-extrabold mt-10 sm:text-center w-[520px]'>Our Passport Expedited Services</h3>
+        <p className='text-sm mt-10 capitalize font-light mb-10'>Tailored Solutions for Your Passport Needs</p>
       </div>
 
         <div className='flex justify-between flex-wrap mx-auto items-center w-[800px] h-[400px] gap-4'>
