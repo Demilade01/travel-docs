@@ -145,3 +145,18 @@ export const customerReviews = [
     image: "/assets/person1.png",
   },
 ]
+
+export const faq = [
+  {
+    question: "How long does it typically take to receive my expedited passport?",
+  },
+  {
+    question: "Can I apply for an expedited passport if I have urgent travel plans?",
+  },
+  {
+    question: "Is there an additional fee for expedited passport processing?",
+  },
+  {
+    question: "Can I track the status of my expedited passport application?",
+  },
+]
