@@ -67,3 +67,10 @@ body {
   justify-content: center;
   width: 200px;
 }
+
+.review-card {
+  background-color: white;
+  padding: 20px;
+  width: 300px;
+  border-radius: 8px;
+}

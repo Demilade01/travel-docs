@@ -131,17 +131,17 @@ export const customerReviews = [
   },
   {
     review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
-    name: "Ashley Cooper",
+    name: "John Doe",
     image: "/assets/person3.png",
   },
   {
     review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
-    name: "Noah Jack",
+    name: "Noah Bews",
     image: "/assets/person1.png",
   },
   {
     review: "Wow! I was amazed at how quickly and efficiently this service got my passport to me. I needed it urgently for an unexpected trip, and they came through like champions. Highly recommended",
-    name: "William leo",
+    name: "William Fox",
     image: "/assets/person1.png",
   },
 ]

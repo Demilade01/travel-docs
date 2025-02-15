@@ -1,4 +1,6 @@
+import { customerReviews } from '@/constants'
 import React from 'react'
+import ReviewCard from './ReviewCard'
 
 const Testimonials = () => {
   return (
@@ -9,7 +11,16 @@ const Testimonials = () => {
         <p className='text-sm mt-10 capitalize font-light mb-10'>Find out why our customers trust us with their passport needs and travel dreams.</p>
       </div>
 
-        <div className='flex justify-between flex-wrap mx-auto items-center w-[800px] h-[400px] gap-4'>
+        <div className='flex justify-between flex-wrap mx-auto items-center w-[650px] h-[400px] gap-4'>
+          {customerReviews.map((review) => (
+            <div key={review.name} >
+              <ReviewCard
+                review={review.review}
+                name={review.name}
+                image={review.image}
+              />
+            </div>
+          ))}
         </div>
     </div>
   )
