@@ -1,4 +1,5 @@
 import About from '@/components/About'
+import Faq from '@/components/FAQ'
 import Hero from '@/components/Hero'
 import Navbar from '@/components/Navbar'
 import PassportServices from '@/components/PassportServices'
@@ -15,6 +16,7 @@ const Home = () => {
       <PassportServices />
       <ServiceSpeeds />
       <Testimonials />
+      <Faq />
     </>
   )
 }
