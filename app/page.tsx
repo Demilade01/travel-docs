@@ -1,5 +1,6 @@
 import About from '@/components/About'
 import Faq from '@/components/FAQ'
+import Footer from '@/components/Footer'
 import Hero from '@/components/Hero'
 import Navbar from '@/components/Navbar'
 import PassportServices from '@/components/PassportServices'
@@ -17,6 +18,7 @@ const Home = () => {
       <ServiceSpeeds />
       <Testimonials />
       <Faq />
+      <Footer />
     </>
   )
 }
