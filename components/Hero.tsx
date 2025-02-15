@@ -14,11 +14,11 @@ const Hero = () => {
           </p>
 
           <div className='flex gap-6 mt-20'>
-            <button className='bg-[#004AAD] border-none rounded-full text-white py-5 px-5 mr-5 border-5'>
+            <button className='bg-[#004AAD] border-none rounded-full text-white py-3 px-5 mr-4 border-3'>
               Get Started
             </button>
-            <button className='border-2 border-[#004AAD] rounded-full py-5 px-5'>
-              How does it work
+            <button className='border-[1px] border-[#004AAD] rounded-full py-3 px-5'>
+              Learn More
             </button>
           </div>
 

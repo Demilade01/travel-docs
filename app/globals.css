@@ -74,3 +74,11 @@ body {
   width: 300px;
   border-radius: 8px;
 }
+
+.footer {
+  background-color: #DBEAFF;
+  padding: 40px 20px;
+  width: 800px;
+  height: 500px;
+  border-radius: 20px;
+}

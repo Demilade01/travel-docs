@@ -164,3 +164,15 @@ export const faq = [
     image: "/assets/add.png",
   },
 ]
+
+export const footerLinks = [
+  {
+    link: "Privacy Policy",
+  },
+  {
+    link: "contact",
+  },
+  {
+    link: "terms of service",
+  },
+]
